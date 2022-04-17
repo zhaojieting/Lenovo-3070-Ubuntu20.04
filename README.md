@@ -19,6 +19,6 @@ Process to configure my computer
     https://blog.csdn.net/qq_33973712/article/details/120234707
 
 ## miniconda 
-   ./Miniconda3-4.6.14-Linux-x86_64.sh
+    ./Miniconda3-4.6.14-Linux-x86_64.sh
 ## terminator
-   sudo apt-get install terminator
+    sudo apt-get install terminator
