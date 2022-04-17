@@ -12,9 +12,8 @@ Process to configure my computer
     https://www.cnblogs.com/Boxiang-Zhang/p/15706482.html
     
 ## nvidia 5.10 
-  ubuntu-driver devices
-  sudo apt install nvidia-5.10
+    https://blog.csdn.net/weixin_55749979/article/details/122694538
   
   
 ## 输入法
-  https://blog.csdn.net/qq_33973712/article/details/120234707
+    https://blog.csdn.net/qq_33973712/article/details/120234707
