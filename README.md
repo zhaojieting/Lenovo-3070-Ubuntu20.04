@@ -22,3 +22,5 @@ Process to configure my computer
     ./Miniconda3-4.6.14-Linux-x86_64.sh
 ## terminator
     sudo apt-get install terminator
+## mirrors
+    http://mirrors.sustech.edu.cn/
