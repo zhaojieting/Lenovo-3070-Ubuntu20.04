@@ -17,3 +17,7 @@ Process to configure my computer
   
 ## 输入法
     https://blog.csdn.net/qq_33973712/article/details/120234707
+
+## miniconda 
+   ./Miniconda3-4.6.14-Linux-x86_64.sh
+
