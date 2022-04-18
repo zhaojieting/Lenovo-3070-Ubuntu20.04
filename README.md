@@ -24,3 +24,9 @@ Process to configure my computer
     sudo apt-get install terminator
 ## mirrors
     http://mirrors.sustech.edu.cn/
+
+## ros
+    http://mirrors.sustech.edu.cn/help/ros.html#introduction
+
+## realsense
+    https://github.com/IntelRealSense/realsense-ros
