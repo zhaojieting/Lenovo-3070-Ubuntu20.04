@@ -30,3 +30,6 @@ Process to configure my computer
 
 ## realsense
     https://github.com/IntelRealSense/realsense-ros
+
+## ubuntu 2 windows FTP
+    https://blog.csdn.net/qq_42688495/article/details/123254289
